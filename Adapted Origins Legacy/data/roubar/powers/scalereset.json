@@ -1,0 +1,17 @@
+{
+    "type": "origins:action_on_callback",
+    "hidden": true,
+    "execute_chosen_when_orb": true,
+            "actions": [
+                {
+                    "type": "origins:execute_command",
+                    "command": "attribute @s additionalentityattributes:width base set 1",
+                    "permission_level": 4
+                },
+                {
+                    "type": "origins:execute_command",
+                    "command": "sattribute @s additionalentityattributes:width base set 1",
+                    "permission_level": 4
+                }
+            ]
+}

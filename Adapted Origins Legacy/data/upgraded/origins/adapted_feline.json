@@ -1,0 +1,19 @@
+{
+    "powers": [
+        "origins:fall_immunity",
+        "origins:sprint_jump",
+        "origins:nine_lives",
+        "origins:scare_creepers",
+        "origins:cat_vision",
+        "origins:velvet_paws",
+        "origins:tailwind",
+        "roubar:fishes",
+        "roubar:insomnia"
+    ],
+    "icon": "minecraft:orange_wool",
+    "unchoosable": true,
+    "order": 11,
+    "impact": 2,
+    "name": "Adapted Feline",
+    "description": "You killed the giant flying mouse! Now you just feel grumpy and aggressive as an Adapted Feline."
+}

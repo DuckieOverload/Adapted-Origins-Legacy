@@ -1,0 +1,25 @@
+{
+    "powers": [
+        "ashskel:bladeofinj",
+        "ashskel:soultread",
+        "ashskel:leech",
+        "ashskel:size",
+        "ashskel:mob",
+        "ashskel:heavy",
+        "ashskel:netherbound",
+        "ashskel:withered",
+        "ashskel:reset",
+        "ashskel:nether_spawn",
+        "roubar:insomnia"
+    ],
+    "icon": "minecraft:wither_skeleton_skull",
+    "order": 12,
+    "impact": 2,
+    "name": "Ashen Skeleton",
+    "description": "Your charred body rises from the depths of the nether, covered in the ash remains of your comrades you seek new purpose to escape the horrible dread of your past.",
+    "upgrades": {
+        "condition": "minecraft:end/kill_dragon",
+        "origin": "ashskel:adapted_ashskeleton",
+        "announcement": "You have evolved... Best check your origin again..."
+    }
+}

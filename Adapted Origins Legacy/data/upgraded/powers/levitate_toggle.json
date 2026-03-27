@@ -1,0 +1,11 @@
+{
+    "type": "origins:toggle",
+    "name": "Ascent",
+    "hidden": false,
+    "description": "You can fly! Sort of...",
+    "key": {
+        "continuous": false,
+        "key": "key.origins.primary_active"
+    },
+    "active_by_default": false
+}

@@ -1,0 +1,11 @@
+{
+    "type": "origins:toggle",
+    "name": "Eyes of the End",
+    "hidden": false,
+    "description": "See into the abyss and it will see back to you.",
+    "key": {
+        "continuous": false,
+        "key": "key.origins.secondary_active"
+    },
+    "active_by_default": true
+}
